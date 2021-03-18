@@ -1,2 +1,2 @@
 # studySortinginC
-+ sorting algorithms from https://www.geeksforgeeks.org/sorting-algorithms/
++ sorting algorithms from : https://www.geeksforgeeks.org/sorting-algorithms/
